@@ -1,0 +1,73 @@
+Skip to content
+This repository
+Explore
+Gist
+Blog
+Help
+Chuck Hsu chuckcwh
+
+1  Unwatch
+  Star 0
+ Fork 0chuckcwh/legacy-blog-app
+ branch: master  legacy-blog-app / .gitignore
+Chuck Hsuchuckcwh 26 minutes ago Initial commit
+1 contributor
+55 lines (45 sloc)  0.675 kb RawBlameHistory
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+Status API Training Shop Blog About © 2014 GitHub, Inc. Terms Privacy Security Contact
+
+.idea/
+local_settings.py
